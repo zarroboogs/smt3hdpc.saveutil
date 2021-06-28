@@ -14,10 +14,10 @@ A simple save decryption and encryption utility for SMT3HD PC.
 
 - To decrypt or encrypt the save:
 
-  `smt3hd.saveutil.exe -i /path/to/SMT3HDDATA.sav`
+  `smt3hdpc.saveutil.exe -i /path/to/SMT3HDDATA.sav`
 
   By default, the program outputs decrypted or encrypted save files with a `_dec` or `_enc` suffix respectively.
 
 - To output to a specific path:
 
-  `smt3hd.saveutil.exe -i /path/to/SMT3HDDATA.sav -o /path/to/output.sav`
+  `smt3hdpc.saveutil.exe -i /path/to/SMT3HDDATA.sav -o /path/to/output.sav`

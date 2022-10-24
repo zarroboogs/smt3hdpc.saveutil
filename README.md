@@ -10,7 +10,7 @@ A simple save decryption and encryption utility for SMT3HD PC.
 
 ## Usage
 
-- Locate `SMT3HDDATA.sav` under `%APPDATA%/SEGA/Steam/smt3hd/<account_id>/`
+- Locate `SMT3HDDATA.sav` under `%APPDATA%/Roaming/SEGA/Steam/smt3hd/<account_id>/`
 
 - To decrypt or encrypt the save:
 
